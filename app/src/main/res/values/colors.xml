@@ -1,0 +1,25 @@
+<resources>
+    <color name="colorPrimary">#1976D2</color> <!-- Blue 700 -->
+    <color name="colorPrimaryDark">#1565C0</color> <!-- Blue 800 -->
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <color name="colorSecondary">#03A9F4</color> <!-- Light Blue -->
+    <color name="colorSecondaryDark">#0288D1</color>
+    <color name="colorOnSecondary">#000000</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_medium">#9E9E9E</color>
+    <color name="gray_dark">#424242</color>
+    <color name="purple_box">#9C27B0</color> <!-- Purple 500 -->
+
+
+    <color name="windowBackground">#E3F2FD</color> <!-- Light Blue Background -->
+    <color name="screenBackground">#F0F8FF</color> <!-- Very light blue -->
+    <color name="textColorPrimary">#0D47A1</color>
+    <color name="textColorSecondary">#546E7A</color>
+    <color name="errorColor">#D32F2F</color>
+    <color name="successColor">#388E3C</color>
+</resources>
