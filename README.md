@@ -1,0 +1,1 @@
+- This is the Todo App in Model-View-ViewModel (MVVM) created using Android Studio.Watch the demo [![Watch the demo](https://img.youtube.com/vi/BCfycIwY-F8/0.jpg)](https://youtu.be/BCfycIwY-F8)
